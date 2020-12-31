@@ -2,8 +2,7 @@
 
 Bikeshare Udacity Project
 
-### Description
-Describe what your project is about and what it does
+This project was created as part of the Udacity programming Nanodegree. The project uses information about bikeshare statistics for Chicago, New York City, and Washington to display relevant data. 
 
 ### Files used
 Include the files used
