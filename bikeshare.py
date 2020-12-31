@@ -23,7 +23,7 @@ def get_filters():
 
 # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while True:
-        city = input('Would you like to see data from [Chicago, New York City, or Washington]: ').lower()
+        city = input('Which city you like to see data from [Chicago, New York City, or Washington]: ').lower()
         if city not in Cities:
             print('Invalid Answer. Please enter a valid response')
             continue
